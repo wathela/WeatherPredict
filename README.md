@@ -22,3 +22,7 @@ This project aims to predict the likelihood of rain using weather tabular data. 
   Used grid search with cross-validation to fine-tune model parameters for optimal accuracy.  
 
 This project showcases an end-to-end machine learning workflow for weather prediction, emphasizing model evaluation and efficient data handling techniques.
+
+<p align="center">
+    <img src="project.png" width="500px">
+</p>
