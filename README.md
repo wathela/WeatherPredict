@@ -24,5 +24,5 @@ This project aims to predict the likelihood of rain using weather tabular data. 
 This project showcases an end-to-end machine learning workflow for weather prediction, emphasizing model evaluation and efficient data handling techniques.
 
 <p align="center">
-    <img src="project.png" width="500px">
+    <img src="project.png" width="600px">
 </p>
